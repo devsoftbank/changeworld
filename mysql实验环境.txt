@@ -1,0 +1,5 @@
+课程使用的实验环境为 Ubuntu Linux 14.04 64 位版本。实验中会用到程序：
+
+	mysql版本	Mysql 5.5.50
+       实验平台桌面环境	Xfce终端
+	编辑器	        Gedit
